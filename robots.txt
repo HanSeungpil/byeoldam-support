@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanseungpil.github.io/byeoldam-support/sitemap.xml
